@@ -1,0 +1,46 @@
+```Javascript
+  
+//01 Muestra una alerta con el mensaje "¡Bienvenida y bienvenido a nuestro sitio web!".
+
+alert("¡Bienvenido a nuestro sitio web!");
+  
+  ```
+```Javascript
+  
+//01 Muestra una alerta con el mensaje "¡Bienvenida y bienvenido a nuestro sitio web!".
+
+  alert("¡Bienvenido a nuestro sitio web!");
+
+```
+  
+```Javascript
+// 02 Declara una variable llamada nombre y asígnale el valor "Lua".  
+  let nombre = "Lua";
+  
+```
+  
+```Javascript
+  //3 . Crea una variable llamada edady asígnale el valor 25.
+  let edad = "25";
+
+```
+```Javascript
+  // 4. Establece una variable numeroDeVentas y asígnale el valor 50.
+  let numeroDeVentas = "50";
+```
+```Javascript
+  // 5. Establece una variable saldoDisponible y asígnale el valor 1000
+  let saldoDisponible = "1000";
+```
+```Javascript
+// 6. Muestra una alerta con el texto "¡Error! Completa todos los campos".
+  alert("!Erroe! completa todos los campos")
+```
+```Javascript
+  
+
+```
+```Javascript
+  
+
+```
